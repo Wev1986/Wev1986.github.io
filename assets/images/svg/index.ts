@@ -1,0 +1,13 @@
+import Alert from './alert.svg'
+import Back from './back.svg'
+import Call from './call.svg'
+import Camera from './camera.svg'
+import CheckboxUnChecked from './checkbox.svg'
+import CheckboxChecked from './checkbox_checked.svg'
+import Close from './close.svg'
+import CloseWhite from './close_white.svg'
+import CloseFilled from './close_fill.svg'
+import Edit from './edit.svg'
+import Key from './key.svg'
+import Profile from './profile.svg'
+export { Alert, Call, Camera, Key, CheckboxUnChecked, CheckboxChecked, Close, CloseFilled, CloseWhite, Edit, Profile, Back }
